@@ -28,3 +28,7 @@
 
 Краткий анализ:
 В целом хорошо, но не учла монобровь айфона и стоит уменьшить и сдвинуть элементы на верхней панели экранов Main и Add item screen.
+
+
+ссылка на фигму:
+https://www.figma.com/design/4RtXsRIrjUlUbcMGT2UsrO/Phototype_App_%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%B0%D0%B5%D0%B2%D0%B0?node-id=0-1&t=gaYZIHodlnAVAwi8-1
